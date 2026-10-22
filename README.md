@@ -5,3 +5,5 @@ A UBDS hosted Python workshop covering shell scripting, Git, and Python I attend
 
 This workshop is in the new Shelby biosciences building
 Off of University Blvd. 
+
+Adding line to show I can add, commit, and push to git. 
