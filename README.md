@@ -3,4 +3,5 @@
 
 A UBDS hosted Python workshop covering shell scripting, Git, and Python I attended on 10/22/2026.
 
-Extra add
+This workshop is in the new Shelby biosciences building
+Off of University Blvd. 
