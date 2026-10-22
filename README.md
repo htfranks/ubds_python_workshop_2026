@@ -7,5 +7,3 @@ This workshop is in the new Shelby biosciences building
 Off of University Blvd. 
 
 Adding line to show I can add, commit, and push to git. 
-
-A line we do not need but will be committed 
